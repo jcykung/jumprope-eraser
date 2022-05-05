@@ -1,3 +1,4 @@
+### Version 2.0 ###
 # This script will redact all overall marks from a Jumprope Mastery Report
 
 import tkinter as tk
