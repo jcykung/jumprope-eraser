@@ -12,6 +12,7 @@ Without the numbers, students can stay focussed on self-improvement and have an 
 
 ## Instructions
 Use these settings when generating reports:
+
 ![Report Settings](https://secretgoldfish.weebly.com/uploads/3/6/5/7/365767/screen-shot-2021-03-21-at-2-58-12-pm_1.png)
 
 Be sure to enter the number of pages for each student before you click the button to select the pdf reports to redact.
