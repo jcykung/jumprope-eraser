@@ -1,5 +1,11 @@
 # Jumprope Eraser
 
+## Installation Files
+* [Mac Version](Mac_JumpropeEraser.dmg)
+* [Windows Version](Win_JumpropeEraser.zip)
+
+***
+
 ## Rationale
 This is a Python script I created for the [Jumprope](https://jumpro.pe/) mastery-based assessment software for removing overall marks from Mastery Reports.
 Without the numbers, students can stay focussed on self-improvement and have an itemized list of learning targets rather than a calculated average.
