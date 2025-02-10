@@ -1,8 +1,8 @@
 # Jumprope Eraser
 
 ## Installation Files
-* [Mac Version](Mac_JumpropeEraser.dmg)
-* [Windows Version](Win_JumpropeEraser.zip)
+* [Mac Version](https://github.com/jcykung/jumprope-eraser/releases/download/assessment/Mac_JumpropeEraser.dmg)
+* [Windows Version](https://github.com/jcykung/jumprope-eraser/releases/download/assessment/Win_JumpropeEraser.zip)
 
 ***
 
