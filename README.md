@@ -1,5 +1,7 @@
 # Jumprope Eraser
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E41BI6JX)
+
 ## Installation Files
 * [Mac Version](https://github.com/jcykung/jumprope-eraser/releases/download/assessment/Mac_JumpropeEraser.dmg)
 * [Windows Version](https://github.com/jcykung/jumprope-eraser/releases/download/assessment/Win_JumpropeEraser.zip)
